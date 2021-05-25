@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGhrap_1", "DrawGhrap_1\DrawGhrap_1.csproj", "{3F51ADF6-3E88-42E4-BEF0-A0E57BE2199E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F51ADF6-3E88-42E4-BEF0-A0E57BE2199E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F51ADF6-3E88-42E4-BEF0-A0E57BE2199E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F51ADF6-3E88-42E4-BEF0-A0E57BE2199E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F51ADF6-3E88-42E4-BEF0-A0E57BE2199E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75ED6FC-0ACF-4895-9512-B3B09373E2ED}
+	EndGlobalSection
+EndGlobal
